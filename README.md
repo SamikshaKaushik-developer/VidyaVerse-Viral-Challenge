@@ -88,5 +88,5 @@ The project followed a five-phase "Analytics Sprint" timeline:
 
 **[Ishita Chaudhary]**
 
-LinkedIn:
-GitHub: https://github.com/Ishita-tech-hub
+* LinkedIn:
+* GitHub: https://github.com/Ishita-tech-hub
